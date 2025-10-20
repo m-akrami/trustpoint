@@ -8,7 +8,7 @@
 
 trustpoint is an open-source device identity manager for modern zero trust networks. It uses mutual TLS (mTLS) as its backbone to assign each device a unique, cryptographically verifiable identity, which can be dynamically revoked if its posture changes or it becomes compromised.
 
-## trustpoint Security
+## Security Enhancements
 
 The table below outlines the security enhancements offered by trustpoint, compared to a standard reverse proxy + forward authentication setup (traditional network boundary).
 
@@ -22,3 +22,5 @@ The table below outlines the security enhancements offered by trustpoint, compar
 | Resistance to spoofing | ⛓️‍💥 Weak - relies on IPs, which can be rotated or masked via VPN                                                                               | ⛓️ Strong - cryptographic identity cannot be spoofed or phished, and is harder to clone                                   |
 | SIEM integration       | 🚫 Limited - only basic alert correlation                                                                                                        | 🌐 Native - provides device properties to the SIEM and enables automated revocation                                       |
 | Zero-trust alignment   | 🩹 Partial - grants initial trust to clients before checks, all devices receive a baseline level of trust                                        | 🧱 Full - no trust is given until the device and current posture is verified, unknown devices are denied by default       |
+
+## Features
