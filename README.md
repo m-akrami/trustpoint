@@ -24,3 +24,5 @@ The table below outlines the security enhancements offered by trustpoint, compar
 | Zero-trust alignment   | 🩹 Partial - grants initial trust to clients before checks, all devices receive a baseline level of trust                                        | 🧱 Full - no trust is given until the device and current posture is verified, unknown devices are denied by default       |
 
 ## Features
+
+See [here](https://www.notion.so/2924d6e1dc0880f58bd2db7bb73bf8fe?v=2924d6e1dc08805f8e83000c3061069a&source=copy_link) for planned releases and feature updates.
