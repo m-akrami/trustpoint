@@ -1,4 +1,4 @@
-<img width="310" height="311" alt="Screenshot 2025-10-20 at 17 39 34" src="https://github.com/user-attachments/assets/665d09cb-0b6c-4151-8e92-0be336f7df77" />
+<img width="472.5" height="257.5" alt="trustpoint_logo" src="https://github.com/user-attachments/assets/e9cb87ee-a8e6-4f07-b6a9-4a4ac5f524ea" />
 
 
 ### What is trustpoint?
