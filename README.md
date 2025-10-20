@@ -1,13 +1,16 @@
 <p align="center">
   <img width="295.3125" height="160.9375" alt="trustpoint_logo" src="https://github.com/user-attachments/assets/e9cb87ee-a8e6-4f07-b6a9-4a4ac5f524ea" />
 </p>
-<h1 align="center">trustpoint</h1>
 
-### What is trustpoint?
+---
+
+## What is trustpoint?
 
 trustpoint is an open-source device identity manager for modern zero trust networks. It uses mutual TLS (mTLS) as its backbone to assign each device a unique, cryptographically verifiable identity, which can be dynamically revoked if its posture changes or it becomes compromised.
 
-### Comparisons
+## trustpoint Features
+
+The table below outlines the security enhancements offered by trustpoint, compared to a standard reverse proxy + forward authentication setup (traditional network boundary).
 
 | Feature                | Traditional Network Boundary                                                                                                                     | trustpoint Network Boundary                                                                                               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
