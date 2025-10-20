@@ -2,7 +2,7 @@
 
 trustpoint is an open-source device identity manager for modern zero trust networks. It uses mutual TLS (mTLS) as its backbone to assign each device a unique, cryptographically verifiable identity, which can be dynamically revoked if its posture changes or it becomes compromised.
 
-## Comparisons
+### Comparisons
 
 | Feature                | Traditional Network Boundary                                                                                                                     | trustpoint Network Boundary                                                                                               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
