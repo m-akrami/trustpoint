@@ -1,8 +1,7 @@
 <p align="center">
-  <img width="236.25" height="128.75" alt="trustpoint_logo" src="https://github.com/user-attachments/assets/e9cb87ee-a8e6-4f07-b6a9-4a4ac5f524ea" />
-  
-  ## trustpoint
+  <img width="295.3125" height="160.9375" alt="trustpoint_logo" src="https://github.com/user-attachments/assets/e9cb87ee-a8e6-4f07-b6a9-4a4ac5f524ea" />
 </p>
+<h1 align="center">trustpoint</h1>
 
 ### What is trustpoint?
 
