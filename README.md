@@ -25,4 +25,4 @@ The table below outlines the security enhancements offered by trustpoint, compar
 
 ## Features
 
-See [here](https://www.notion.so/2924d6e1dc0880f58bd2db7bb73bf8fe?v=2924d6e1dc08805f8e83000c3061069a&source=copy_link) for planned releases and feature updates.
+See [here](https://m-akrami.notion.site/2924d6e1dc0880f58bd2db7bb73bf8fe?v=2924d6e1dc08805f8e83000c3061069a&source=copy_link) for planned releases and feature updates.
